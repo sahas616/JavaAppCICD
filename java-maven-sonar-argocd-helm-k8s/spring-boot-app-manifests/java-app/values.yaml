@@ -3,4 +3,4 @@ appName: spring-boot-app
 namespace: default
 imageData:
   name: "sahas616/my-java-image"
-  tag: 30
+  tag: 31
