@@ -1,0 +1,6 @@
+serviceName: spring-boot-app-service
+appName: spring-boot-app
+namespace: default
+imageData:
+  name: "sahas616/my-java-image"
+  tag: 30
